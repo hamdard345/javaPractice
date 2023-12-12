@@ -1,3 +1,4 @@
-com\mycompany\javapractice\AbstractDemo.class
 com\mycompany\javapractice\JavaPractice.class
-com\mycompany\javapractice\MyAbstractClass.class
+com\mycompany\javapractice\Car.class
+com\mycompany\javapractice\SUV.class
+com\mycompany\javapractice\SportsCar.class
